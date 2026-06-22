@@ -169,7 +169,7 @@ This relationship model enables efficient querying, better scalability, and simp
 > **📷 Data Model Image**
 
 ```
-<img src="Images/Dataset-Connection.png" width="800">
+<img src="Images/Dataset-Connection.png" width="1000">
 ```
 
 # 📈 Business KPIs
